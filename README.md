@@ -1,4 +1,4 @@
-#Cleaning, Wrangling, and Visualization
+# Cleaning, Wrangling, and Visualization
 Here are 3 different notebooks that I created concerning how to clean your data, wrangle, and also how to visualize your data.
 While these aren't the most fun parts of using python or creating different simple scripts(let alone doing object-orientated programming),
 as someone who just graduated with a degree in Social Data Science, with a thesis on Generative AI's impact to social dynamics...I'm probably going to 
